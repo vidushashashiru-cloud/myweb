@@ -36,7 +36,7 @@ export const videos = [
     recent: true,              // ✅ Recent section හි show කිරීමට true
 
     // ✅ Embed URL - replace VIDEO_ID
-    embed_url: "<iframe src="https://cioskgsmfolrurqxvhxg.supabase.co/storage/v1/object/public/thumbnails/logo.jpg" width="560" height="315" style="border:0;" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>",
+    embed_url: "logo.jpj",
     embed_allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
 
     // ✅ Thumbnail - YouTube auto thumbnail
