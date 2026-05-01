@@ -36,7 +36,7 @@ export const videos = [
     recent: true,              // ✅ Recent section හි show කිරීමට true
 
     // ✅ Embed URL - replace VIDEO_ID
-    embed_url: "https://www.youtube.com/embed/aqz-KE-bpKQ",
+    embed_url: "https://cioskgsmfolrurqxvhxg.supabase.co/storage/v1/object/public/thumbnails/logo.jpg",
     embed_allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
 
     // ✅ Thumbnail - YouTube auto thumbnail
